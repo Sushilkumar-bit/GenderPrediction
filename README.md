@@ -1,13 +1,13 @@
 # GenderPrediction
-Dependencies
-Python3.5
-numpy 1.13.3+mkl
-Keras 2.0.8+
-TensorFlow 1.4.0
-opencv 1.0.1+
-opencv-python 3.3.0+contrib
-Tested on:
-Windows 10 with Tensorflow 1.4.0 GPU
+#Dependencies
+#Python3.5
+#numpy 1.13.3+mkl
+#Keras 2.0.8+
+#TensorFlow 1.4.0
+#opencv 1.0.1+
+#opencv-python 3.3.0+contrib
+#Tested on:
+#Windows 10 with Tensorflow 1.4.0 GPU
 # Going deeper
 For those not satisfied with the demo and have more understanding how the model is built and trained. This section is for you.
 
